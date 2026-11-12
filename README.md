@@ -1,1 +1,1 @@
-# m6_data_analytics
+# m6_s2_data_analytics
